@@ -1,11 +1,11 @@
-# LeonardoAI Challenge: Measuring the similarity scores of text-image pairs.  
+# Measuring the similarity scores of text-image pairs.  
 <div style="text-align: right"> By: Trung Nguyen </div>
 
 ## About  
 
 ### My code, output/input  
 
-The code is in "LeoAI.ipynb". My apology for not using ".py" as I think a notebook will provide a better clarity. Results with similarity scores are saved to "results.csv". Statistics of code running including time and memory usages are saved to "stats.log". Images and the data "challenge_set.csv" should be stored in "data/".  
+The code is in "LeoAI.ipynb". Results with similarity scores are saved to "results.csv". Statistics of code running including time and memory usages are saved to "stats.log". Images and the data "challenge_set.csv" should be stored in "data/".  
 
 ### Model choice  
 
